@@ -1,6 +1,5 @@
 /*
 * File: 1-isdigit.c
-* Auth: Gideon Obae Gekonge
 */
 
 #include "main.h"
