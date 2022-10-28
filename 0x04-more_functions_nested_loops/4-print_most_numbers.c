@@ -1,6 +1,5 @@
 /*
 * File: 4-print_most_numbers.c
-* Auth: Gideon Obae Gekonge
 */
 
 #include "main.h"

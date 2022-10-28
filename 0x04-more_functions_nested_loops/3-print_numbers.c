@@ -1,6 +1,5 @@
 /*
 * File: 3-print_numbers.c
-* Auth: Gideon Obae Gekonge
 */
 
 #include "main.h"
