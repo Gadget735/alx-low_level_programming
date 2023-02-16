@@ -5,7 +5,7 @@
  *main - Entry point
  *
  *
- *Return: Always_0 (Success)
+ *Return: 1
  *
  */
 
